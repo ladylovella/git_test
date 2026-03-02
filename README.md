@@ -1,110 +1,59 @@
 # Hi, I'm Leovie 👋
 
-Implementation & Systems Analyst transitioning into **Solutions Engineering and Integration Architecture**.
+**AI‑leaning Solution Architect** focused on turning complex business rules into **testable**, **automated**, and **auditable** system behavior.  
+I design workflows, integrations, and applied‑AI components with clear **acceptance criteria**, **evaluation harnesses**, and **runbooks** so teams can trust outcomes in production.
 
-I specialize in translating business workflows into technical solutions through troubleshooting, API integrations, data validation, and automation. My work focuses on bridging operations and engineering teams using structured analysis, system thinking, and reproducible workflows.
-
----
-
-## 🚀 What I Build
-
-I focus on real-world system workflows that connect business operations with technical implementation.
-
-### 🧩 Implementation & Integration
-- API onboarding & payload validation
-- Workflow mapping and troubleshooting
-- UAT testing & defect triage
-- Cross-system data validation
-- Integration issue investigation
-
-### 🤖 Automation & AI
-- AI-assisted workflow auditing
-- Data exception detection tools
-- Python + Streamlit automation prototypes
-
-### 📊 Data & Validation
-- SQL validation logic
-- Data quality checks
-- Operational analytics thinking
-- Root-cause driven analysis
+- 🧭 Background: Implementation & Systems Analysis → Revenue Integrity (RI/QA) → **Solutions & Applied AI**
+- 🧪 Superpower: convert ambiguous requirements into **deterministic rules**, **LLM prompts/guards**, and **evidence artifacts** (CSV/JSON) for UAT and audits
+- 🔌 Stack comfort: REST/JSON integrations, Python validators, SQL checks, SaaS workflows, Jira/Confluence/ServiceNow
+- 🌟 Goal: own **AI‑powered workflow components** end‑to‑end — design → UAT → evidence → adoption
 
 ---
 
-## 🧠 Engineering Direction
+## 🛠️ Tech Stack
 
-Currently growing toward:
-
-- Solutions Engineering
-- Integration Architecture
-- Implementation Engineering
-- AI-assisted Operations
-
-My background in healthcare revenue integrity and QA/compliance influences how I design systems:
-
-- structured validation
-- root cause analysis
-- clear documentation
-- reproducible troubleshooting workflows
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+<img alt="JSON" src="https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white" />
+<img alt="REST" src="https://img.shields.io/badge/REST-005571?logo=cloudflare&logoColor=white" />
+<img alt="SQL" src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" />
+<img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white" />
+<img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078D4?logo=visual-studio-code&logoColor=white" />
+<img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+<img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white" />
 
 ---
 
-## 🔧 Core Skills
+## 🔥 Top Technical Projects
 
-### Implementation & Integration
-- SaaS onboarding
-- Workflow mapping
-- UAT testing & defect triage
-- API troubleshooting
-- Cross-functional issue resolution
+### 1) AI Evaluation Harness  
+**What**: Test‑set evaluator for LLM / rule outputs. Computes **accuracy, precision, recall, F1**, confusion matrix, **scenario slices**, and exports **Jira‑ready defects**.  
+**Why**: Proves model/rule behavior with repeatable evidence for RI/QA and go‑live readiness.  
+**Repo**: https://github.com/L-Martos/ai-eval-harness
 
-### Technical Foundations
-- SQL (basic)
-- JSON & API concepts
-- Python automation (learning)
-- Data validation logic
-- GitHub documentation workflows
+### 2) AI Exception Detector  
+**What**: Prompt‑driven anomaly detector for operational workflows; flags potential exceptions for review.  
+**Why**: Demonstrates applied AI on real process signals with audit‑friendly outputs.  
+**Repo**: https://github.com/L-Martos/ai-exception-detector
 
----
+### 3) Integration Troubleshooting Toolkit  
+**What**: Structured triage for API/SaaS implementations — payload validation patterns, recurring error signatures, and reproducible steps.  
+**Why**: Shows Solution Architect thinking for **root‑cause isolation** and **faster incident resolution**.  
+**Repo**: https://github.com/L-Martos/integration-troubleshooting
 
-## 🧭 Learning & Engineering Journey
+### 4) API Samples Library  
+**What**: Request/response patterns, auth flows, and JSON schema checks.  
+**Why**: Foundation for clean, testable integrations and acceptance criteria.  
+**Repo**: https://github.com/L-Martos/api-samples
 
-My repositories show progression from operational problem-solving toward technical system design.
+### 5) Python CDM/Mapping Validator  
+**What**: Lightweight Python checks for expected vs. actual mappings (codes, charges, rules).  
+**Why**: Evidence‑first automation for integrity and compliance.  
+**Repo**: https://github.com/L-Martos/cdm-validator-python
 
-| Stage | Project | Focus |
-|------|-------|------|
-| 🧩 Troubleshooting | integration-troubleshooting | Structured issue triage workflow |
-| 🔌 API Fundamentals | api-samples | Request/response & payload validation |
-| 📊 Data Validation | sql-tableau-portfolio | Data logic & analysis thinking |
-| 🐍 Automation | cdm-validator-python | Python validation logic |
-| 🤖 AI Applications | ai-exception-detector | AI-assisted operational auditing |
-
-Each project builds toward Solutions Engineering and Integration Architecture capabilities.
+> More projects: https://github.com/L-Martos?tab=repositories
 
 ---
 
-## 🎯 Current Focus
+## 🧪 How I Work (Architect + AI Engineer)
 
-- Strengthening API integration skills
-- Building automation and AI tools
-- Developing system design thinking
-- Transitioning into Solutions Engineer / Solutions Architect roles
-
----
-
-## 🧠 Systems & Integration Skill Map
-
-```mermaid
-flowchart LR
-
-A[Business Workflow] --> B[Implementation & Onboarding]
-B --> C[API Integrations]
-C --> D[Data Validation]
-D --> E[Troubleshooting & Root Cause Analysis]
-E --> F[Automation & AI Tools]
-
-style A fill:#1f77b4,color:#fff
-style B fill:#2ca02c,color:#fff
-style C fill:#ff7f0e,color:#fff
-style D fill:#9467bd,color:#fff
-style E fill:#d62728,color:#fff
-style F fill:#17becf,color:#fff
